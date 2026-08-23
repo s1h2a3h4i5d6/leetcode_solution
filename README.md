@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
+| [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -14,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -35,5 +37,6 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 <!---LeetCode Topics End-->
