@@ -12,6 +12,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
