@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -19,6 +20,7 @@
 | [0001-two-sum](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +43,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
