@@ -6,7 +6,7 @@ class Solution {
             int mid=start+(end-start)/2;
             if(target>=letters[mid]){
                 start=mid+1;
-            }else if(target<=letters[mid]){
+            }else{
                 end=mid-1;
             }
         }
