@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -73,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
