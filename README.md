@@ -21,6 +21,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2469-convert-the-temperature](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/2469-convert-the-temperature/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
