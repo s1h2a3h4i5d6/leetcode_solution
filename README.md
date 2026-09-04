@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0704-binary-search/) | Easy |
@@ -51,6 +52,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0162-find-peak-element/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0704-binary-search/) | Easy |
