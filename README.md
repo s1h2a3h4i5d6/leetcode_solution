@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -42,6 +43,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
