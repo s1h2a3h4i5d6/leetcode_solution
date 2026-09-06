@@ -60,6 +60,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0162-find-peak-element/) | Medium |
+| [0278-first-bad-version](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -97,6 +98,7 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
