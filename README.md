@@ -39,6 +39,7 @@
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2469-convert-the-temperature](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/2469-convert-the-temperature/) | Easy |
+| [3870-count-commas-in-range](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
