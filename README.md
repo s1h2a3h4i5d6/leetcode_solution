@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0136-single-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0162-find-peak-element/) | Medium |
@@ -110,5 +111,6 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
