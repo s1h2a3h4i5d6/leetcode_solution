@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0162-find-peak-element/) | Medium |
 | [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -53,6 +54,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@
 | [0162-find-peak-element](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -113,4 +116,13 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
