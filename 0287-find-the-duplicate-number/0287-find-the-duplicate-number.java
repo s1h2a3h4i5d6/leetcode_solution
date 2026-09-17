@@ -11,11 +11,11 @@ class Solution {
                 i++;
             }
         }
-        for(i=0;i<nums.length-1;i++){
+        for(i=0;i<nums.length;i++){
             if(nums[i]!=i+1){
                 return nums[i];
             }
         }
-        return nums[nums.length-1];
+        return nums.length;
     }
 }
