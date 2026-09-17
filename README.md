@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0645-set-mismatch](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Math
@@ -81,6 +83,7 @@
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0645-set-mismatch](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Prefix Sum
@@ -117,6 +120,7 @@
 | [0136-single-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0645-set-mismatch](https://github.com/s1h2a3h4i5d6/leetcode_solution/tree/main/0645-set-mismatch/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
